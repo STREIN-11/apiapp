@@ -1,5 +1,5 @@
 # Apiapp
-Basic `backend server` for user `authentication` and store their values as note
+Basic `backend server` for user `authentication` and `store` their Datas as a Note copy
 ## Using languages
 `Express` , `MongoDB` , `React`
 ### Contact
